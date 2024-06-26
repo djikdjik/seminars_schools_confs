@@ -1,2 +1,3 @@
+These are from the 1st School of Computational Techniques for Physics Students in Kenya(SCoTeP-K) organised by ICTP Physics Without Frontiers, UoN, KENET, and other organizations.
 the origin of these notebooks is Lorenzo Capriotti and Christina Agapopolou.
 Some changes are, however, entirely my own and unfortunately, I cannot pinpoint them.
